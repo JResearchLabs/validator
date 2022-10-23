@@ -8,3 +8,4 @@ git clone https://github.com/JResearchLabs/Flutechain.git
 cd Flutechain
 go build -o Flutechain main.go
 sudo mv Flutechain /usr/local/bin
+rm -rf go1.17.5.linux-amd64.tar.gz
